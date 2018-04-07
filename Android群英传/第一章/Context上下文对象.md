@@ -5,5 +5,5 @@
     - 创建 Application
     - 创建 Activity
     - 创建 Service
-- 当 Android 应用程序在第一次创建的时候，都会创建一个 Application 对象
+- 当 Android 应用程序在第一次创建的时候，都会创建一个 Application 对象，同时也就创建了该应用程序的 Appliaction Context 对象，也就意味着整一个应用程序在其整一个生命周期里面，都会拥有者
  
