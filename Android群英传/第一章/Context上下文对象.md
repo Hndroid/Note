@@ -9,4 +9,3 @@
 - 在创建 Activity 和 Service 的同时，应用程序也会为其创建相对应的 Context 对象;
 - 在 Activity 中获取 Context 对象的时候，可以通过直接使用 this 来获取，但在匿名内部类里面，则需要指定 XXXActivity.this 的方式来获取的该 Activity 的 Context 对象;
 - 也可以通过 getApplicationContext() 方法来获取整一个 App 的 Context对象，但在某些时候，整个应用程序的上下文，和某个组件的上下文还是有区别的;
- 
