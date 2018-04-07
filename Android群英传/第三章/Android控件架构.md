@@ -1,0 +1,1 @@
+- 在 nadroid 系统中，控件大致分为 ViewGroup 控件与 View 控件
