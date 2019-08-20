@@ -29,6 +29,7 @@ Linux 通信方式|定义
 #### 参考资料
 
 [Android进程间通信（IPC）机制Binder简要介绍和学习计划](https://blog.csdn.net/luoshengyang/article/details/6618363)
+
 [Android深入浅出之Binder机制](https://www.cnblogs.com/innost/archive/2011/01/09/1931456.html)
 
 
