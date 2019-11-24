@@ -1,6 +1,6 @@
 ### Android中的dip、dp、sp、pt、px、mm 和 in
 
-> 来源：Google 官方译文
+> 来源：Google 官方
 
 #### dip/dp
 
