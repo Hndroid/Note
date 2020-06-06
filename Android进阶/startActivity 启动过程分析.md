@@ -1,0 +1,1 @@
+在 Android 中，一般是通过 `startActivity(Intent, Bundle)` 去启动一个 `Activity` 
